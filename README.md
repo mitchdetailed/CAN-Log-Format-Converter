@@ -5,7 +5,7 @@ A desktop application for converting between common CAN bus log file formats. Bu
 ## Features
 
 - Convert between **10 different CAN log formats**
-- Batch convert multiple files at once
+- Batch convert multiple files at once (from a single folder)
 - Real-time progress bar during conversion
 - Automatic output file naming (`_out` suffix in the same directory)
 - Overwrite confirmation for existing output files
